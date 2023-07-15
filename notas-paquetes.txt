@@ -1,0 +1,11 @@
+instalacion paquetes
+npm instal colors
+npm i colors
+npm install colors@1.0.0 (eligo la version) 
+
+npm install nodemon --save-dev (instalo solo en desarrollo)
+npm uninstall nodemon (desinstalar)
+
+npm update (revisa dependencias y me dice cual tienen verisones nuevas y actualiza)
+
+npm i yargs
